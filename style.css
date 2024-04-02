@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('f6b41f48c482cdeeef23ce28391915ac.jpg');
+    background-size: cover;
+  }
+  .container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  h1, h2, h3 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .ingredients, .instructions {
+    padding: 50px;
+    margin: 50px;
+    background-color:pink;
+    border-radius: 30px;
+    border-color: crimson;
+    border-width: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    border: 1px solid black;
+    width: 600px;
+    
+  }
+  .ingredient-item {
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+  }
+
